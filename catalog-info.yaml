@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: raize-search-purchase-automation
+  annotations:
+    github.com/project-slug: pedrooct/raize-search-purchase-automation
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
